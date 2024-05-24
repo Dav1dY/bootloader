@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1939:34:__NVIC_SystemReset	1
+../Core/Src/boot.c:17:6:bootFunction	12
+../Core/Src/boot.c:109:19:EraseFlash	2
+../Core/Src/boot.c:131:19:func_write_app_info	7
